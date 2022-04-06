@@ -2,6 +2,7 @@
 # sign up: Writes datas to the text file as -> username hashed_password
 # log in:  Reads datas from the text file. If there is a match both username and hashed_password, you will logged in successfully.
 
+#  https://github.com/emretekin8/Signup---Login-System
 
 import hashlib
 
